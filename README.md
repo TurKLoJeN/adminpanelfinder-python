@@ -10,7 +10,7 @@ The things you need before installing the software.
 
 * Python
 * Terminal
-* pyfiglet, requests
+* pyfiglet, requests, termcolor
 
 ### Installation
 
@@ -19,6 +19,7 @@ A step by step guide that will tell you how to get the development environment u
 ```
 $ pip install pyfiglet
 $ pip install requests
+$ pip install termcolor
 ```
 
 ## Usage
