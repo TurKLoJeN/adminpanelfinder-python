@@ -1,76 +1,59 @@
-# Admin Panel Finder V1 
-> Simple basic level admin panel scanning program
+# Project Title
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+A short description about the project and/or client.
 
-![](header.png)
+## Getting Started
 
-## Installation
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-OS X & Linux:
+### Prerequisites
 
-```sh
-npm install my-crazy-module --save
+The things you need before installing the software.
+
+* You need this
+* And you need this
+* Oh, and don't forget this
+
+### Installation
+
+A step by step guide that will tell you how to get the development environment up and running.
+
+```
+$ First step
+$ Another step
+$ Final step
 ```
 
-Windows:
+## Usage
 
-```sh
-edit autoexec.bat
+A few examples of useful commands and/or tasks.
+
+```
+$ First example
+$ Second example
+$ And keep this in mind
 ```
 
-## Usage example
+## Deployment
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+### Server
 
-## Development setup
+* Live:
+* Release:
+* Development:
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+### Branches
 
-```sh
-make install
-npm test
-```
+* Master:
+* Feature:
+* Bugfix:
+* etc...
 
-## Release History
+## Additional Documentation and Acknowledgments
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+* Project folder on server:
+* Confluence link:
+* Asana board:
+* etc...
