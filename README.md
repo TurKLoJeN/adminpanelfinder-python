@@ -27,3 +27,5 @@ You just need to enter the url
 ```
 example: https://google.com
 ```
+
+![Screenshot_1](https://user-images.githubusercontent.com/32311900/220093865-03161df1-887e-4232-8c32-877444f78317.png)
