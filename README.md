@@ -39,9 +39,13 @@ termcolor modülü, renkli yazdırma işlemini ANSI kaçış kodlarını kullana
 Windows Terminal'de ANSI kaçış kodlarını desteklemek için aşağıdaki adımları izleyebilirsiniz:
 
 1- Windows Terminal'i açın.
+
 2- Sol üst köşedeki menü simgesine tıklayın ve "Settings" (Ayarlar) seçeneğini seçin.
+
 3- Açılan ayarlar dosyasında, "defaults" bölümünü bulun ve "experimentalReflow": true satırını ekleyin.
+
 4- "profiles" bölümüne gidin ve "list" içindeki tüm profillere şu ayarı ekleyin: "useAcrylic": false.
+
 5- "profiles" bölümünde, renkler için aşağıdaki ayarları yapın:
 
 ```
@@ -79,9 +83,13 @@ The termcolor module performs colored printing by using ANSI escape codes. Howev
 To enable ANSI escape codes in Windows Terminal, you can follow these steps:
 
 1- Open Windows Terminal.
+
 2- Click on the menu icon in the top-left corner and select "Settings".
+
 3- In the settings file that opens up, find the "defaults" section and add the "experimentalReflow": true line to it.
+
 4- In the "profiles" section, add the following setting to all the profiles in the "list": "useAcrylic": false.
+
 5- In the "profiles" section, make the following settings for colors:
 
 ```
