@@ -1,4 +1,4 @@
-# Product Name
+# Admin Panel Finder V1 
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
