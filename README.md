@@ -22,34 +22,8 @@ $ pip install requests
 
 ## Usage
 
-A few examples of useful commands and/or tasks.
+You just need to enter the url
 
 ```
-$ First example
-$ Second example
-$ And keep this in mind
+example: https://google.com
 ```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
