@@ -19,8 +19,8 @@ while True:
             test_url = f"{url}/{panel}/"
             response = requests.get(test_url)
             if response.status_code == 200:
-                 print(colored(f"{test_url} mevcut","green"))
+                 print(colored(f"{test_url} OK","green"))
             else:
-                 print(colored(f"{test_url} mevcut değil","red"))
+                 print(colored(f"{test_url} NOT WORKING","red"))
     except ValueError:
         print(colored("Try Again.","yellow"))
